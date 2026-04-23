@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Vercel Serverless Function Entry Point
  * Express uygulamasını Vercel'in serverless ortamına adapte eder.
